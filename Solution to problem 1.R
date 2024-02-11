@@ -60,12 +60,10 @@ barplot(df$Height,
 
 # (iv) Substituting observations to dF ------------------------------------
 
-fX <- expression(Xi^3+ 2*Yi) # defining function as an expression
+fX <- expression(Xi^3 + 2*Yi) # defining function as an expression
 dfX <- D(fX,'Xi') # partial derivative w.r.t Xi
 Xi <- df$Distance # defining values for Xi
 eval(dfX) # evaluating the partial derivative w.r.t. Xi at each distance observation
 
 # The end -----------------------------------------------------------------
-
-
 
