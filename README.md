@@ -3,6 +3,6 @@
 # GEOMATICS: Numerical Methods & Engineering Surveying and Adjustment
 This work has a strong statistical and mathematical foundation for dealing with and adjusting very precise measurements, mainly in the surveying industry. However, these foundations can be extended to anything related to precise measurement, like LiDAR digital elevation model (DEM) fittings and geodesy. 
 
-The solutions to the problems cover the law of propagation of variances, least squares methods, and coordinate transformations, and were solved in both R and Python programming languages. Supporting documents with explanations and derivations were explicitly provided where necessary. 
+The solutions to the problems cover the law of propagation of variances, least squares methods, and coordinate transformations, and were solved in both R and Python programming languages. In addition, supporting documents with explanations and derivations were explicitly provided where necessary. 
 
 Most of the problems and written solutions could be found in [*Ogundare, J.O., 2018. Understanding least squares estimation and geomatics data analysis. John Wiley & Sons*](https://books.google.co.za/books?id=hn9xDwAAQBAJ&lpg=PA13&ots=nqrk_IMUqm&dq=Understanding%20Least%20Squares%20Estimation%20and%20Geomatics%20Data%20Analysis&lr&pg=PP1#v=onepage&q=Understanding%20Least%20Squares%20Estimation%20and%20Geomatics%20Data%20Analysis&f=false).
