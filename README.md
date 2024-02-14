@@ -5,5 +5,4 @@ This work has a strong statistical and mathematical foundation for dealing with 
 
 The solutions to the problems cover the law of propagation of variances, least squares methods, and coordinate transformations. Supporting documents with explanations and derivations were explicitly provided where necessary.
 
-Most of the problems and written solutions could be found in _Ogundare, J.O., 2018. Understanding least squares estimation and geomatics data analysis. John Wiley & Sons.
-_
+Most of the problems and written solutions could be found in *Ogundare, J.O., 2018. Understanding least squares estimation and geomatics data analysis. John Wiley & Sons*.
