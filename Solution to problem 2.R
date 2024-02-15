@@ -45,7 +45,7 @@ if (which.max(c(alp_comp, beta_comp, C_comp)) == 1){
 }else if (which.max(c(alp_comp, beta_comp, C_comp)) == 2){
   cat("From the comparison,", beta_comp, "is the largest value, therefore angle ß affects the propagation the most.")
 }else {
-  cat("From the comparison,", C_comp, "is the largest value, therefore angle c affects the propagation the most.")
+  cat("From the comparison,", C_comp, "is the largest value, therefore side c affects the propagation the most.")
 } # comparison to declare largest error contributor
 
 
