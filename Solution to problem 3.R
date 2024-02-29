@@ -53,6 +53,7 @@ colnames(P_coords_df) <- c('Y(m)', 'X(m)') # rename the columns
 
 
 # (iii) Covariance matrix of P2, P3, ..., P9 ------------------------------
+# Defining jacobian matrix
 J <- Deriv(~c(P1Y+d12*sin(a12), P1X+d12*cos(a12), # P2 observation equation for the Y and X coordinates
               P1Y+d13*sin(a13), P1X+d13*cos(a13), # P3 observation equation for the Y and X coordinates
               P3Y+d34*sin(a34), P3X+d34*cos(a34), # P4 observation equation for the Y and X coordinates
